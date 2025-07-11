@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi there! I'm [Debayan Aich]
 
-<!--
-**Debayan090904/Debayan090904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year B.Tech Student | Computer Science & Engineering  
+💻 Passionate about Development, DSA, and Open Source  
+🚀 Currently exploring Backend Development, System Design & Cloud Computing  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+- 💻 Languages: `Java` | `Python` | `C` | `JavaScript`
+- 🌐 Web: `HTML` | `CSS` | `React.js` | `Node.js` | `Express.js`
+- 🧠 Core Subjects: `DSA`, `DBMS`, `OS`, `CN`, `OOPs`
+- 🛢️ Database: `MySQL` | `MongoDB`
+- 🔧 Tools: `Git` | `VS Code` | `Postman` | `Figma`
+- ☁️ Cloud: `Firebase` | Learning `AWS`
+
+---
+
+### 📝 Projects
+
+- 📱 **Student Management System** – Java, MySQL
+- 🌐 **Portfolio Website** – React, Tailwind CSS
+- 🔐 **Secure File Sharing System** – Python, Cryptography
+- 🎮 **Tic Tac Toe Game** – HTML/CSS/JavaScript
+
+---
+
+### 📬 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/debayan-aich/)
+- 📧 Email: [debayanaich00@gmail.com](mailto:debayanaich00@gmail.com)
+---
+
+_✨ Let's learn, build and grow together! ✨_
