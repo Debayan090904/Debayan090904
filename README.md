@@ -12,16 +12,14 @@
 - 🌐 Web: `HTML` | `CSS` | `React.js` | `Node.js` | `Express.js`
 - 🧠 Core Subjects: `DSA`, `DBMS`, `OS`, `CN`, `OOPs`
 - 🛢️ Database: `MySQL` | `MongoDB`
-- 🔧 Tools: `Git` | `VS Code` | `Postman` | `Figma`
-- ☁️ Cloud: `Firebase` | Learning `AWS`
+- 🔧 Tools: `Git` | `VS Code`
+- ☁️ Cloud: Learning `AWS`
 
 ---
 
 ### 📝 Projects
 
 - 📱 **Student Management System** – Java, MySQL
-- 🌐 **Portfolio Website** – React, Tailwind CSS
-- 🔐 **Secure File Sharing System** – Python, Cryptography
 - 🎮 **Tic Tac Toe Game** – HTML/CSS/JavaScript
 
 ---
